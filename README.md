@@ -8,7 +8,7 @@ Welcome to my **personal portfolio**, a modern and interactive space where I sho
 
 ## 🚀 Live Preview  
 Check out the deployed version of my portfolio:  
-👉 [Live Demo](https://adityachanne13.github.io/Aaditya-Portfolio/)
+👉 [Live Link](https://adityachanne13.github.io/Aaditya-Portfolio/)
 
 ---
 
